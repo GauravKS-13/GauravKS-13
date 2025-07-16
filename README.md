@@ -22,19 +22,31 @@ I'm always exploring new technologies, contributing to meaningful projects, and 
 
 ## 🛠️ Tech I'm Comfortable With
 
-💻 Languages & Frameworks: JavaScript, TypeScript, Node.js, Express.js, Vue.js
+<p align="left">
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/> TypeScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> Express.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30"/> Vue.js &nbsp;&nbsp;
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/> Redis &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> MySQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30"/> Kafka <br><br>
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/> Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/> Kubernetes &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/> AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30"/> Heroku  &nbsp;&nbsp;
+  <!-- Row 4 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="30"/> Mocha &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30"/> Unit Testing  &nbsp;&nbsp;
+  <!-- Row 5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30"/> Jira
+</p>
 
-🗄️ Databases: MongoDB, Redis, MySQL
-
-🔄 Messaging & Streaming: Kafka
-
-☁️ Infrastructure & DevOps: Kubernetes, Docker, AWS, Heroku
-
-🧪 Testing Frameworks: Jasmine, Mocha, Unit Testing
-
-📊 Monitoring & Logging: Instana, Grafana, Sentry, New Relic
-
-🧰 Tools & Collaboration: Git, Jira
 
 
 ## 💡 Interests
@@ -51,10 +63,10 @@ I'm always exploring new technologies, contributing to meaningful projects, and 
 
 🔧 Exploring system design, DevOps automation, and emerging backend technologies
 
-
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauravksharma13/)
-- 📧 gsahrma13@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravksharma13/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsahrma13@gmail.com)
 
 ---
 
